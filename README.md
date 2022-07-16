@@ -2,7 +2,7 @@
 
 <h3>About Me 🚀</h3>
 <p>
-  My name is Alex Silva.
+  My name is Alex Silva. I study systems engineering.
 </p>
 
 
