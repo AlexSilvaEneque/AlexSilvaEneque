@@ -17,14 +17,14 @@
 
 - Learning
 
-|  [<img src="https://user-images.githubusercontent.com/83987498/179371890-cf175330-b36c-4a60-aeda-3fb68bb8cb2c.png" width="50">](https://nuxtjs.org/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371443-83c0b16b-13e3-4d03-a43d-0472eb0941d7.png" width="50">](https://tailwindcss.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371491-d11d8776-20b6-40dd-b4a6-c0bb77d88790.png" widht="50" height="40">](https://quasar.dev/)  |
+|  [<img src="https://user-images.githubusercontent.com/83987498/179371890-cf175330-b36c-4a60-aeda-3fb68bb8cb2c.png" width="50">](https://nuxtjs.org/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371443-83c0b16b-13e3-4d03-a43d-0472eb0941d7.png" width="50">](https://tailwindcss.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371491-d11d8776-20b6-40dd-b4a6-c0bb77d88790.png" widht="50" height="40">](https://quasar.dev/)  |  [<img src="" width="50">](https://www.typescriptlang.org/)  |
 |---|---|---|
 
 <h4>✔Backend</h4>
 
 - Using
 
-| [<img src="https://user-images.githubusercontent.com/83987498/179364243-be7378db-637f-4090-bcec-86e475abac7b.png" width="50">](https://nodejs.org/es/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364254-c04752b7-24e4-4c2b-b65e-83d67c7a4fac.png" width="50">](https://laravel.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364247-3cbc784f-a659-4c55-8f5d-d4f6d2deec7e.png" width="50">](https://www.mysql.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364902-33804988-595c-4769-be34-ae3c0ef8b424.png" width="50">](https://www.microsoft.com/es-es/sql-server/sql-server-2019)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364251-2ed2e905-2df2-4929-986f-4b451630b334.png" width="50">](https://www.mongodb.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371305-53561b7f-e5f5-4130-9e25-2e24f757b040.png" width="50">](https://expressjs.com/es/)|  [<img src="" width="50">](https://typeorm.io/)  |
+| [<img src="https://user-images.githubusercontent.com/83987498/179364243-be7378db-637f-4090-bcec-86e475abac7b.png" width="50">](https://nodejs.org/es/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364254-c04752b7-24e4-4c2b-b65e-83d67c7a4fac.png" width="50">](https://laravel.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364247-3cbc784f-a659-4c55-8f5d-d4f6d2deec7e.png" width="50">](https://www.mysql.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364902-33804988-595c-4769-be34-ae3c0ef8b424.png" width="50">](https://www.microsoft.com/es-es/sql-server/sql-server-2019)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364251-2ed2e905-2df2-4929-986f-4b451630b334.png" width="50">](https://www.mongodb.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371305-53561b7f-e5f5-4130-9e25-2e24f757b040.png" width="50">](https://expressjs.com/es/)|  [<img src="https://user-images.githubusercontent.com/83987498/179372810-52cc376f-2ca0-40dc-b1a1-98401b44f48d.png" width="50">](https://typeorm.io/)  |
 |---|---|---|---|---|---|---|
 
 - Learning
