@@ -24,8 +24,8 @@
 
 - Using
 
-| [<img src="https://user-images.githubusercontent.com/83987498/179364243-be7378db-637f-4090-bcec-86e475abac7b.png" width="50">](https://nodejs.org/es/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364254-c04752b7-24e4-4c2b-b65e-83d67c7a4fac.png" width="50">](https://laravel.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364247-3cbc784f-a659-4c55-8f5d-d4f6d2deec7e.png" width="50">](https://www.mysql.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364902-33804988-595c-4769-be34-ae3c0ef8b424.png" width="50">](https://www.microsoft.com/es-es/sql-server/sql-server-2019)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364251-2ed2e905-2df2-4929-986f-4b451630b334.png" width="50">](https://www.mongodb.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371305-53561b7f-e5f5-4130-9e25-2e24f757b040.png" width="50">](https://expressjs.com/es/)|
-|---|---|---|---|---|---|
+| [<img src="https://user-images.githubusercontent.com/83987498/179364243-be7378db-637f-4090-bcec-86e475abac7b.png" width="50">](https://nodejs.org/es/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364254-c04752b7-24e4-4c2b-b65e-83d67c7a4fac.png" width="50">](https://laravel.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364247-3cbc784f-a659-4c55-8f5d-d4f6d2deec7e.png" width="50">](https://www.mysql.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364902-33804988-595c-4769-be34-ae3c0ef8b424.png" width="50">](https://www.microsoft.com/es-es/sql-server/sql-server-2019)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364251-2ed2e905-2df2-4929-986f-4b451630b334.png" width="50">](https://www.mongodb.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371305-53561b7f-e5f5-4130-9e25-2e24f757b040.png" width="50">](https://expressjs.com/es/)|  [<img src="" width="50">](https://typeorm.io/)  |
+|---|---|---|---|---|---|---|
 
 - Learning
 
