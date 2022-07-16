@@ -17,8 +17,8 @@
 
 - Learning
 
-|  [<img src="https://user-images.githubusercontent.com/83987498/179371890-cf175330-b36c-4a60-aeda-3fb68bb8cb2c.png" width="50">](https://nuxtjs.org/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371443-83c0b16b-13e3-4d03-a43d-0472eb0941d7.png" width="50">](https://tailwindcss.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371491-d11d8776-20b6-40dd-b4a6-c0bb77d88790.png" widht="50" height="40">](https://quasar.dev/)  |  [<img src="" width="50">](https://www.typescriptlang.org/)  |
-|---|---|---|
+|  [<img src="https://user-images.githubusercontent.com/83987498/179371890-cf175330-b36c-4a60-aeda-3fb68bb8cb2c.png" width="50">](https://nuxtjs.org/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371443-83c0b16b-13e3-4d03-a43d-0472eb0941d7.png" width="50">](https://tailwindcss.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371491-d11d8776-20b6-40dd-b4a6-c0bb77d88790.png" widht="50" height="40">](https://quasar.dev/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179372675-5153dff7-d452-4082-bc29-ac7680afc5d8.png" width="50">](https://www.typescriptlang.org/)  |
+|---|---|---|---|
 
 <h4>✔Backend</h4>
 
