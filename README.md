@@ -1,8 +1,8 @@
-### Hi there 👋
+### Bienvenido!👋
 
-<h3>About Me 🚀</h3>
+<h3>Sobre mi 🚀</h3>
 <p>
-  My name is Alex Silva. I study systems engineering.
+  Hola soy Alex Silva Desarrollador Web Fullstack, estudio Ingeniería de Sistemas, apasionado por el desarrollo web.
 </p>
 
 
