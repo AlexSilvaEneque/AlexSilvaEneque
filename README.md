@@ -1,38 +1,13 @@
-### Bienvenido!👋
 
-<h3>Sobre mi 🚀</h3>
-<p>
-  Hola soy Alex Silva Desarrollador Web Fullstack, estudio Ingeniería de Sistemas, apasionado por el desarrollo web.
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexse/) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSilvaEneque&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3>My Tech Stack 👩‍💻</h3><hr>
+---
+[![](https://visitcount.itsvg.in/api?id=AlexSilvaEneque&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h4>✔Frontend</h4>
-
-- Using
-
-| [<img src="https://user-images.githubusercontent.com/83987498/179363984-e50644f1-1836-48a4-9c09-43ed43405fe8.png" width="50">](https://developer.mozilla.org/es/docs/Web/HTML)  |  [<img src="https://user-images.githubusercontent.com/83987498/179363717-d9e55efc-4ab9-46a9-97dd-96ec556d8b8e.png" width="50">](https://developer.mozilla.org/es/docs/Web/CSS)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364257-ad071e8e-3116-44fb-97a2-9956b8bbbecf.png" width="50">](https://developer.mozilla.org/es/docs/Web/JavaScript)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364241-06d8f27f-1963-4706-b204-95cb107c2fd8.png" width="50">](https://vuejs.org/guide/introduction.html)  |  [<img src="https://user-images.githubusercontent.com/83987498/216730382-6f88d271-7a12-428c-aee0-556547af6f3c.png" width="50">](https://vuex.vuejs.org/)  |  [<img src="https://user-images.githubusercontent.com/83987498/216730447-c00fdd51-2234-4d6f-945d-db4333d8eabe.png" width="60">](https://pinia.vuejs.org/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179372063-67187fde-fbde-4ca4-a276-53274518a7cd.png" width="50">](https://vuetifyjs.com/en/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364261-b0d17591-2a44-4366-ad9c-bd8eebb6a693.png" width="50">](https://getbootstrap.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371443-83c0b16b-13e3-4d03-a43d-0472eb0941d7.png" width="50">](https://tailwindcss.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179372675-5153dff7-d452-4082-bc29-ac7680afc5d8.png" width="50">](https://www.typescriptlang.org/)
-|---|---|---|---|---|---|---|---|---|---|
-
-- Learning
-
-|  [<img src="https://user-images.githubusercontent.com/83987498/179371491-d11d8776-20b6-40dd-b4a6-c0bb77d88790.png" widht="50" height="40">](https://quasar.dev/)  |
-|---|
-
-<h4>✔Backend</h4>
-
-- Using
-
-| [<img src="https://user-images.githubusercontent.com/83987498/179364243-be7378db-637f-4090-bcec-86e475abac7b.png" width="50">](https://nodejs.org/es/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364254-c04752b7-24e4-4c2b-b65e-83d67c7a4fac.png" width="50">](https://laravel.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364247-3cbc784f-a659-4c55-8f5d-d4f6d2deec7e.png" width="50">](https://www.mysql.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364902-33804988-595c-4769-be34-ae3c0ef8b424.png" width="50">](https://www.microsoft.com/es-es/sql-server/sql-server-2019)  |  [<img src="https://user-images.githubusercontent.com/83987498/179364251-2ed2e905-2df2-4929-986f-4b451630b334.png" width="50">](https://www.mongodb.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179371305-53561b7f-e5f5-4130-9e25-2e24f757b040.png" width="50">](https://expressjs.com/es/)|  [<img src="https://user-images.githubusercontent.com/83987498/179372810-52cc376f-2ca0-40dc-b1a1-98401b44f48d.png" width="50">](https://typeorm.io/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179372675-5153dff7-d452-4082-bc29-ac7680afc5d8.png" width="50">](https://www.typescriptlang.org/)
-|---|---|---|---|---|---|---|---|
-
-- Learning
-
-|  [<img src="https://user-images.githubusercontent.com/83987498/179371951-bb0e4214-cf07-4d40-8aaa-3f50b44e4503.png" width="50">](https://graphql.org/)  |
-|---|
-
-<h4>✔Dev Tools</h4>
-
-|  [<img src="https://user-images.githubusercontent.com/83987498/179370769-6163fa40-21a7-4e8e-856b-feadd8e518cf.png" width="50">](https://code.visualstudio.com/)  | [<img src="https://user-images.githubusercontent.com/83987498/179364260-2ae8b5c3-da69-411a-a581-f1fc47a59704.png" width="50">](https://git-scm.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179370056-ade871fb-72e1-441b-a1b9-317a9ec7295f.png" width="50">](https://github.com/)  |  [<img src="https://user-images.githubusercontent.com/83987498/179370860-e3a32439-5693-4396-9816-b23a8161a5cb.png" width="50">](https://www.npmjs.com/)  |
-|---|---|---|---|
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
